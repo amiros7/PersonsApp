@@ -1,0 +1,202 @@
+[
+    {
+        "id": "1",
+        "firstName": "Lionel",
+        "lastName": "Messi",
+        "description": "Professional footballer from Argentina",
+        "birthDate": "1987-06-24",
+        "nation": "Argentina",
+        "brief": "Lionel Messi's career is defined by his incredible consistency and record-breaking achievements at FC Barcelona, where he won numerous La Liga and Champions League titles. He is Argentina's all-time leading goal scorer and has won multiple Ballon d'Or awards for being the world's best player.",
+        "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSoedPP9xMhUd0P1mvbzjsD5M7P2HMfqn5dDdZ_oRPfurfx-P9TyYbw7NmaWhwNGCVztLroiPxX9-JRNPc"
+    },
+    {
+        "id": "2",
+        "firstName": "Cristiano",
+        "lastName": "Ronaldo",
+        "description": "Professional footballer from Portugal",
+        "birthDate": "1985-02-05",
+        "nation": "Portugal",
+        "brief": "Cristiano Ronaldo's career has been marked by his goal-scoring prowess and success at top clubs like Manchester United, Real Madrid, and Juventus. He is Portugal's all-time top scorer, a five-time Ballon d'Or winner, and has won multiple league titles and Champions League trophies.",
+        "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTbyNyLxq6CsGjR7nhyJs0oRhnTSW0SUNYWnMnC-JSExpKha0bac6xzTufwCzAoqLed4J0zztdsnd0wy6U"
+    },
+    {
+        "id": "3",
+        "firstName": "Neymar",
+        "lastName": "Jr",
+        "description": "Professional footballer from Brazil",
+        "birthDate": "1992-02-05",
+        "nation": "Brazil",
+        "brief": "Neymar Jr. rose to fame at FC Barcelona, forming a deadly attacking trio with Messi and Suarez. He later became Paris Saint-Germain's most expensive signing, showcasing his dribbling skills and playmaking ability. Neymar is a key player for Brazil, having won Copa America and Olympic gold medals.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/68290-1697056482.png?lm=1"
+    },
+    {
+        "id": "4",
+        "firstName": "Kevin",
+        "lastName": "De Bruyne",
+        "description": "Professional footballer from Belgium",
+        "birthDate": "1991-06-28",
+        "nation": "Belgium",
+        "brief": "Kylian Mbappé emerged as a breakout star with AS Monaco, winning the Ligue 1 title and reaching the Champions League semifinals. He joined Paris Saint-Germain and became a World Cup winner with France in 2018, known for his speed, skill, and clinical finishing.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/88755-1713391485.jpg?lm=1"
+    },
+    {
+        "id": "5",
+        "firstName": "Kylian",
+        "lastName": "Mbappé",
+        "description": "Professional footballer from France",
+        "birthDate": "1998-12-20",
+        "nation": "France",
+        "brief": "Kylian Mbappé emerged as a breakout star with AS Monaco, winning the Ligue 1 title and reaching the Champions League semifinals. He joined Paris Saint-Germain and became a World Cup winner with France in 2018, known for his speed, skill, and clinical finishing.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/342229-1682683695.jpg?lm=1"
+    },
+    {
+        "id": "6",
+        "firstName": "Mohamed",
+        "lastName": "Salah",
+        "description": "Professional footballer from Egypt",
+        "birthDate": "1992-06-15",
+        "nation": "Egypt",
+        "brief": "Mohamed Salah's career soared after joining Liverpool FC, where he helped the club win the Premier League, Champions League, and Club World Cup. He is Egypt's top scorer and known for his pace, dribbling, and scoring ability, earning recognition as one of the best wingers in the world.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/148455-1700651360.jpg?lm=1"
+    },
+    {
+        "id": "7",
+        "firstName": "Virgil",
+        "lastName": "van Dijk",
+        "description": "Professional footballer from the Netherlands",
+        "birthDate": "1991-07-08",
+        "nation": "Netherlands",
+        "brief": "Virgil van Dijk is a commanding center-back who transformed Liverpool's defense, playing a pivotal role in their Premier League and Champions League triumphs. Known for his aerial prowess, tackling ability, and leadership, he is regarded as one of the best defenders in the world.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/139208-1702049837.jpg?lm=1"
+    },
+    {
+        "id": "8",
+        "firstName": "Sergio",
+        "lastName": "Ramos",
+        "description": "Professional footballer from Spain",
+        "birthDate": "1986-03-30",
+        "nation": "Spain",
+        "brief": "Sergio Ramos is celebrated for his leadership and defensive prowess at Real Madrid, where he won numerous La Liga and Champions League titles. He is Spain's most-capped outfield player, known for his goal-scoring ability and tough-tackling style, making him one of the best defenders in football history.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/25557-1694502812.jpg?lm=1"
+    },
+    {
+        "id": "9",
+        "firstName": "Paul",
+        "lastName": "Pogba",
+        "description": "Professional footballer from France",
+        "birthDate": "1993-03-15",
+        "nation": "France",
+        "brief": "Paul Pogba is a dynamic midfielder known for his vision, passing ability, and physical presence. He achieved success at Juventus before returning to Manchester United, winning multiple Serie A titles and the World Cup with France in 2018.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/122153-1582114937.jpg?lm=1"
+    },
+    {
+        "id": "10",
+        "firstName": "Harry",
+        "lastName": "Kane",
+        "description": "Professional footballer from England",
+        "birthDate": "1993-07-28",
+        "nation": "England",
+        "brief": "Harry Kane is a prolific striker for Tottenham Hotspur and the England national team, known for his clinical finishing, heading ability, and leadership on the field. He has won the Premier League Golden Boot and led England to the semifinals of the 2018 World Cup.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/132098-1700211169.jpg?lm=1"
+    },
+    {
+        "id": "11",
+        "firstName": "Robert",
+        "lastName": "Lewandowski",
+        "description": "Professional footballer from Poland",
+        "birthDate": "1988-08-21",
+        "nation": "Poland",
+        "brief": "Robert Lewandowski is known for his prolific goal-scoring record at Bayern Munich, winning multiple Bundesliga titles and the Champions League. He has consistently been one of Europe's top strikers, renowned for his strength, aerial ability, and clinical finishing for both club and the Polish national team.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/38253-1701118759.jpg?lm=1"
+    },
+    {
+        "id": "12",
+        "firstName": "Sadio",
+        "lastName": "Mané",
+        "description": "Professional footballer from Senegal",
+        "birthDate": "1992-04-10",
+        "nation": "Senegal",
+        "brief": "Sadio Mané rose to prominence at Southampton before joining Liverpool FC, where he formed a lethal attacking trio with Mohamed Salah and Roberto Firmino. Known for his speed, dribbling skills, and goal-scoring ability, he helped Liverpool win the Premier League and Champions League.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/200512-1667830279.jpg?lm=1"
+    },
+    {
+        "id": "13",
+        "firstName": "Luka",
+        "lastName": "Modrić",
+        "description": "Professional footballer from Croatia",
+        "birthDate": "1985-09-09",
+        "nation": "Croatia",
+        "brief": "Luka Modrić is a versatile midfielder who became a linchpin for Real Madrid and the Croatian national team. He won multiple Champions League titles with Real Madrid and led Croatia to the World Cup final in 2018, earning recognition as one of the best midfielders of his generation.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/27992-1687776160.jpg?lm=1"
+    },
+    {
+        "id": "14",
+        "firstName": "Antoine",
+        "lastName": "Griezmann",
+        "description": "Professional footballer from France",
+        "birthDate": "1991-03-21",
+        "nation": "France",
+        "brief": "Antoine Griezmann emerged as a key player for Atletico Madrid, winning the UEFA Europa League and finishing as the top scorer at the 2016 European Championship. He then moved to Barcelona, where he continued to showcase his versatility, technique, and goal-scoring ability for both club and country.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/125781-1694505401.jpg?lm=1"
+    },
+    {
+        "id": "15",
+        "firstName": "Eden",
+        "lastName": "Hazard",
+        "description": "Professional footballer from Belgium",
+        "birthDate": "1991-01-07",
+        "nation": "Belgium",
+        "brief": "Eden Hazard is a Belgian attacking midfielder known for his dribbling skills, creativity, and playmaking ability. He rose to prominence at Lille OSC before joining Chelsea FC, where he won multiple Premier League titles, FA Cups, and the UEFA Europa League. Hazard became one of the top players in the Premier League, earning accolades such as the PFA Players' Player of the Year. In 2019, he transferred to Real Madrid, aiming to continue his success in La Liga and the Champions League. As a key player for the Belgian national team, Hazard has represented his country in multiple UEFA European Championships and FIFA World Cups, showcasing his ability to influence games with his vision and attacking flair.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/50202-1665067742.jpg?lm=1"
+    },
+    {
+        "id": "16",
+        "firstName": "Zlatan",
+        "lastName": "Ibrahimović",
+        "description": "Professional footballer from Sweden",
+        "birthDate": "1981-10-03",
+        "nation": "Sweden",
+        "brief": "Zlatan Ibrahimović has played for top clubs across Europe, including AC Milan, Barcelona, and Manchester United, known for his powerful shots, acrobatic goals, and charismatic personality. He continues to excel at AC Milan, showcasing his scoring prowess and leadership.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/3455-1579506060.jpg?lm=1"
+    },
+    {
+        "id": "17",
+        "firstName": "Gareth",
+        "lastName": "Bale",
+        "description": "Professional footballer from Wales",
+        "birthDate": "1989-07-16",
+        "nation": "Wales",
+        "brief": "Gareth Bale made his mark at Tottenham Hotspur before a record-breaking transfer to Real Madrid, where he won multiple Champions League titles and scored iconic goals. He returned to Tottenham on loan, known for his speed, powerful strikes, and versatility as an attacking player for both club and Wales.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/39381-1658665343.jpg?lm=1"
+    },
+    {
+        "id": "18",
+        "firstName": "Karim",
+        "lastName": "Benzema",
+        "description": "Professional footballer from France",
+        "birthDate": "1987-12-19",
+        "nation": "France",
+        "brief": "Karim Benzema has been a key striker for Real Madrid, winning multiple La Liga and Champions League titles. Known for his technical skills and goal-scoring ability, he has been a consistent performer for both club and country, contributing crucial goals in big matches.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/18922-1702414196.jpg?lm=1"
+    },
+    {
+        "id": "19",
+        "firstName": "Marcelo",
+        "lastName": "Vieira",
+        "description": "Professional footballer from Brazil",
+        "birthDate": "1988-05-12",
+        "nation": "Brazil",
+        "brief": "Marcelo has been a stalwart left-back for Real Madrid, known for his attacking prowess, dribbling ability, and strong defensive skills. He has won numerous La Liga and Champions League titles, establishing himself as one of the best full-backs in modern football.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/44501-1603112392.jpg?lm=1"
+    },
+    {
+        "id": "20",
+        "firstName": "Manuel",
+        "lastName": "Neuer",
+        "description": "Professional footballer from Germany",
+        "birthDate": "1986-03-27",
+        "nation": "Germany",
+        "brief": "Manuel Neuer revolutionized goalkeeping with his sweeping style and shot-stopping abilities at Bayern Munich and the German national team. He won the World Cup with Germany in 2014 and numerous Bundesliga titles and Champions League trophies with Bayern Munich.",
+        "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/17259-1702419450.jpg?lm=1"
+    }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "firstName": "David",
+    "lastName": "Ben-Gurion",
+    "description": "First Prime Minister of Israel, a key figure in the country's founding and early development.",
+    "birthDate": "October 16, 1886",
+    "nation": "Israel",
+    "imageUrl": "https://main.knesset.gov.il/About/Lexicon/PublishingImages/bengurion_david-B.jpg",
+    "brief": "David Ben-Gurion was Israel's first Prime Minister and a central figure in its establishment. He led the country through its formative years, declaring independence in 1948. Ben-Gurion emphasized national unity and defense, shaping Israel's early political and military strategies."
+  },
+  {
+    "id": "2",
+    "firstName": "Golda",
+    "lastName": "Meir",
+    "description": "Israel's first and only female Prime Minister, known for her strong leadership during a challenging era.",
+    "birthDate": "May 3, 1898",
+    "nation": "Israel",
+    "imageUrl": "https://main.knesset.gov.il/About/Lexicon/PublishingImages/meir_go-B.jpg",
+    "brief": "Golda Meir was Israel's first and only female Prime Minister, known for her strong leadership during challenging times, including the Yom Kippur War. She prioritized social welfare and security, advocating for Israel's global recognition and defending its sovereignty."
+  },
+  {
+    "id": "3",
+    "firstName": "Menachem",
+    "lastName": "Begin",
+    "description": "Led Israel during pivotal moments, including the peace treaty with Egypt.",
+    "birthDate": "August 16, 1913",
+    "nation": "Israel",
+    "imageUrl": "https://main.knesset.gov.il/About/Lexicon/PublishingImages/begin_menahem-B.jpg",
+    "brief": "Menachem Begin was a prominent leader known for his role in the peace treaty with Egypt, for which he was awarded the Nobel Peace Prize. As Prime Minister, he focused on security and Jewish heritage, contributing to Israel's diplomatic and military strategies."
+  },
+  {
+    "id": "4",
+    "firstName": "Yitzhak",
+    "lastName": "Rabin",
+    "description": "Awarded the Nobel Peace Prize for his efforts in the Oslo Accords, tragically assassinated in 1995.",
+    "birthDate": "March 1, 1922",
+    "nation": "Israel",
+    "imageUrl": "https://main.knesset.gov.il/About/Lexicon/PublishingImages/8-B.jpg",
+    "brief": "Yitzhak Rabin served as both Prime Minister and Defense Minister, notable for his efforts in the Oslo Accords, aimed at achieving peace with the Palestinians. He received the Nobel Peace Prize but tragically assassinated in 1995, leaving a legacy of peacemaking and security reform."
+  },
+  {
+    "id": "5",
+    "firstName": "Shimon",
+    "lastName": "Peres",
+    "description": "Served as President and Prime Minister, instrumental in peace negotiations and innovation.",
+    "birthDate": "August 2, 1923",
+    "nation": "Israel",
+    "imageUrl": "https://main.knesset.gov.il/About/Lexicon/PublishingImages/peres-B.jpg",
+    "brief": "Shimon Peres was a statesman who held various ministerial roles and served as President and Prime Minister. He was instrumental in negotiating peace agreements, including the Oslo Accords. Peres advocated for innovation and economic growth, shaping Israel's global reputation."
+  },
+  {
+    "id": "6",
+    "firstName": "Ariel",
+    "lastName": "Sharon",
+    "description": "Played a pivotal role in Israeli military and politics, known for his controversial policies.",
+    "birthDate": "February 26, 1928",
+    "nation": "Israel",
+    "brief": "Ariel Sharon was a military leader turned politician, known for his bold military strategies and controversial policies. As Prime Minister, he focused on security and territorial integrity, promoting Israeli settlements while facing international criticism for military actions.",
+    "imageUrl": "https://www.gov.il/BlobFolder/roleholder/sharon/he/history_sharon11.jpg"
+  },
+  {
+    "id": "7",
+    "firstName": "Benjamin",
+    "lastName": "Netanyahu",
+    "description": "Longest-serving Prime Minister of Israel, known for his tough stance on security and international relations.",
+    "birthDate": "October 21, 1949",
+    "nation": "Israel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Netanyahu%2C_February_2023.jpg",
+    "brief": "Benjamin Netanyahu is Israel's longest-serving Prime Minister, known for his tough stance on security and diplomatic relations. He emphasized economic reforms and technological advancements, navigating Israel through regional conflicts and global challenges."
+  },
+  {
+    "id": "8",
+    "firstName": "Ehud",
+    "lastName": "Barak",
+    "description": "Israel's most decorated soldier and former Prime Minister, known for his military leadership and peace efforts.",
+    "birthDate": "February 12, 1942",
+    "nation": "Israel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ehud_Barak_2016_-_Herzliya_Conference_2016_3015_%28cropped%29.jpg",
+    "brief": "Ehud Barak, a former military chief, served as Prime Minister and Defense Minister. He advocated for peace negotiations and security reforms, playing a key role in peace talks with the Palestinians. Barak focused on economic stability and international relations."
+  },
+  {
+    "id": "9",
+    "firstName": "Ehud",
+    "lastName": "Olmert",
+    "description": "Served as Prime Minister during challenging times, focused on economic and security issues.",
+    "birthDate": "September 30, 1945",
+    "nation": "Israel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flickr_-_Government_Press_Office_%28GPO%29_-_P.M._Olmert_with_Shahar_Peer_and_Udi_Gal_%28cropped%29_%28cropped%29.jpg",
+    "brief": "Ehud Olmert led Israel during challenging times, focusing on economic reforms and peace negotiations. As Prime Minister, he pursued territorial compromises and security agreements, contributing to Israel's stability and diplomatic efforts."
+  },
+  {
+    "id": "10",
+    "firstName": "Yitzhak",
+    "lastName": "Shamir",
+    "description": "Long-serving Prime Minister known for his steadfast leadership and policies during critical periods.",
+    "birthDate": "October 15, 1915",
+    "nation": "Israel",
+    "imageUrl": "https://www.gov.il/BlobFolder/roleholder/shamir/he/history_shamir7.jpg",
+    "brief": "Yitzhak Shamir served as Israel's seventh Prime Minister, known for his steadfast leadership during critical periods. He emphasized national security and sovereignty, navigating Israel through diplomatic challenges and regional conflicts. Shamir was a key figure in Israeli politics, advocating for Jewish rights and defending Israel's interests on the global stage. His tenure saw strategic alignments and efforts to strengthen Israel's military capabilities. His legacy includes a commitment to Israeli unity and resilience, shaping policies that influenced Israel's stance on peace negotiations and international diplomacy."
+  },
+  {
+    "id": "11",
+    "firstName": "Moshe",
+    "lastName": "Sharett",
+    "description": "Israel's second Prime Minister, known for his diplomatic skills and advocacy for peaceful coexistence.",
+    "birthDate": "October 15, 1894",
+    "nation": "Israel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sharet22.jpg",
+    "brief": "Moshe Sharett was Israel's second Prime Minister, known for his diplomatic skills and efforts in establishing Israel's international relations. He advocated for peaceful coexistence with neighboring states and promoted Israel's diplomatic standing on the global stage."
+  }
+]
